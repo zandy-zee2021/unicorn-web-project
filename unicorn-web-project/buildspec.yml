@@ -20,3 +20,4 @@ artifacts:
   files:
     - target/unicorn-web-project.war
   discard-paths: no
+  
